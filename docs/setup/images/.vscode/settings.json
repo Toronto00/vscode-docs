@@ -1,0 +1,5 @@
+{
+    "git.autofetch": true,
+    "extensions.showRecommendationsOnlyOnDemand": true,
+    "typescript.disableAutomaticTypeAcquisition": true
+}
